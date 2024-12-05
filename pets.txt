@@ -5,3 +5,5 @@ chickens
 sheep
 pig
 ox
+pig-1
+dog-2
