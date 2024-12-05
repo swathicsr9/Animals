@@ -7,3 +7,5 @@ pig
 ox
 pig-1
 dog-2
+cat-2
+cow-2
